@@ -4,6 +4,7 @@
   "contributors": [
     "Vincent Limjap <vin.limjap@gmail.com> (theconnects.com)"
   ],
+  "homepage" : "http://vlimjap.github.io/drive2ip",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
