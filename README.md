@@ -5,6 +5,8 @@
 
 GO: http://localhost:3000
 
+DEMO: https://vlimjap.github.io/drive2ip/build/index.html
+
 
 ## Notes: ##
 Welcome to Drive2IP.
