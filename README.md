@@ -11,6 +11,8 @@ DEMO: https://vlimjap.github.io/drive2ip/build/index.html
 ## Notes: ##
 Welcome to Drive2IP.
 
+Enter your origin IP address. Enter your destination IP address. Find out how long it takes to physically drive from one to the other.
+
 I started with the create-react-app (https://github.com/facebookincubator/create-react-app) as my bootstrapping library and then included different libraries to form the app structure.
 
 
